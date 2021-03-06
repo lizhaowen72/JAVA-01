@@ -1,1 +1,17 @@
 # Created by .ignore support plugin (hsz.mobi)
+### lzw.ignore template
+
+### 忽略文件
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+
+**/target/
+
+.idea
+
+**/.gitignore
+**.iml
+**.cmd
+
+HELP.md
